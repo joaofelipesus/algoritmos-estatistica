@@ -2,6 +2,6 @@
 
 ## Algoritmos:
   - População e amostra:
-    - Amostra sistemática;
+    - [Amostra sistemática](./amostra-populacao/systematic_sample.py);
     - [Amostragem por grupos](./amostra-populacao/group_sampling.py);
-    - Amostragem estratificada.
+    - [Amostragem estratificada](./amostra-populacao/stratified_sampling.py)
