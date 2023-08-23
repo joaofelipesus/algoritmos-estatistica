@@ -115,6 +115,3 @@ df = pd.DataFrame(VALUES, columns=COLUMNS)
 model = NaiveBayes(df, CLASS_COLUMN_NAME)
 print(model.predict(['Boa', 'Alta', 'Nenhuma', '> 35000']))
 print(model.predict_proba(['Boa', 'Alta', 'Nenhuma', '> 35000']))
-
-# TODO: calc 2 values para validar
-# TODO: comparar com resultado do sklearn
